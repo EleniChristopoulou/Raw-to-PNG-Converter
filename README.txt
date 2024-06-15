@@ -3,7 +3,7 @@
 
 	pip install rawpy pillow
 
-How to run the scripet
+How to run the script
 
 	Open command prompt
 	
